@@ -1,7 +1,7 @@
 {
   "name": "ssbc",
   "version": "1.0.0",
-  "description": "手撕包菜网站",
+  "description": "涪陵榨菜菜网站",
   "main": "spider.js",
   "dependencies": {
     "bittorrent-protocol": "^3.0.1",
@@ -27,12 +27,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/78/ssbc.git"
+    "url": "git+https://github.com/zylx0532/ssbc.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/78/ssbc/issues"
+    "url": "https://github.com/zylx0532/ssbc/issues"
   },
-  "homepage": "https://github.com/78/ssbc#readme"
+  "homepage": "https://github.com/zylx0532/ssbc#readme"
 }

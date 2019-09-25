@@ -2,7 +2,7 @@
   <el-container>
     <el-header>
       <div class="title">
-        <a href="/">手撕包菜</a>
+        <a href="/">涪陵泡菜</a>
       </div>
       <div class="search-box" v-on:keyup.enter="submit">
         <el-input size="small" placeholder="Movie names" v-model="keyword" class="mini-input-keyword">

@@ -29,7 +29,7 @@
 			    <div>If you want to get the torrent file or original data of {{item.name}}, please use uTorrent, BitTorrent or Thunder.
 			    </div>
 			    <div>
-					<a rel="nofollow" target="_blank" :href="'http://www.haosou.com/s?q=' + encodeURIComponent(item.name) + '&src=ssbc'">
+					<a rel="nofollow" target="_blank" :href="'http://www.haosou.com/s?q=' + encodeURIComponent(item.name) + '&src=RuiXin'">
 					Click here to locate the torrent file of {{item.name}}...
 					</a>
 				</div>
@@ -40,7 +40,7 @@
 			    </div>
 			  </el-collapse-item>
 			  <el-collapse-item title="Copyright Infringement" name="6">
-			    <div>If the content above is not authorized, please contact us via contact[AT]cilibaba.com. Remember to include the full url in your complaint.</div>
+			    <div>If the content above is not authorized, please contact us via contact[AT]flpc.com. Remember to include the full url in your complaint.</div>
 			  </el-collapse-item>
 			</el-collapse>	
 		</div>

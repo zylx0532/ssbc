@@ -1,5 +1,5 @@
 # ssbc
-手撕包菜网站
+来自手撕包菜网站
 
 ## 安装说明
 
@@ -84,7 +84,7 @@ yum install http://sphinxsearch.com/files/sphinx-2.3.2-1.rhel7.x86_64.rpm
 2. 创建目录
 
 ```
-mkdir -p /data/bt/index/db /data/bt/index/binlog
+mkdir -p /www/ssbc/index/db /www/ssbc/index/binlog
 ```
 
 3. 初始化索引

@@ -5,7 +5,7 @@
     <el-main>
       <div class="content">
         <h1 class="title">
-          手撕包菜
+          涪陵泡菜
         </h1>
         <p class="subtitle">
           Search <b>anything</b> you want :D

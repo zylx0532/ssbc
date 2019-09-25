@@ -5,7 +5,7 @@ module.exports = {
   ** Headers of the page
   */
   head: {
-    title: '手撕包菜',
+    title: '涪陵榨菜',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
@@ -47,7 +47,7 @@ module.exports = {
   ** See https://axios.nuxtjs.org/options
   */
   axios: {
-      baseURL: process.env.BASE_URL || 'https://www.shousibaocai.net'
+      baseURL: process.env.BASE_URL || 'https://www.zhiqiang.name'
   },
   /*
   ** Build configuration

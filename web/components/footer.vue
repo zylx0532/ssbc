@@ -1,9 +1,9 @@
 <template>
   <el-footer>
     <div>
-        <h5>About ShouSiBaoCai</h5>
+        <h5>About FuLingPaoCai</h5>
         <p>
-          ShouSiBaoCai is a Search Engine based on DHT protocol. All resources are automatically indexed from the DHT network. Instead of torrent files, we store meta information only for indexing. 
+          FuLingPaoCai is a Search Engine based on DHT protocol. All resources are automatically indexed from the DHT network. Instead of torrent files, we store meta information only for indexing. 
         </p>
         <h5>About Magnet Links</h5>
         <p>
@@ -12,10 +12,9 @@
     </div>
     <div>
         <p class="copyright">
-        &copy; 2013 ~ 2019 www.shousibaocai.org
+        &copy; 2013 ~ 2019 www.FuLingPaoCai.com
         </p>
     </div>
-    <script type="text/javascript" src="https://v1.cnzz.com/z_stat.php?id=1278001465&web_id=1278001465"></script>
   </el-footer>
 </template>
 

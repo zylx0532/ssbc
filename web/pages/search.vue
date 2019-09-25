@@ -84,7 +84,7 @@ export default {
 
 	head() {
 		return {
-			title: this.$route.query.q + ' - 手撕包菜'
+			title: this.$route.query.q + ' - 涪陵榨菜'
 		}
 	}
 };
